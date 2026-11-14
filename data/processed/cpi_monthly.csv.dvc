@@ -1,0 +1,5 @@
+outs:
+- md5: 054b30037384614b498907253eb59bd3
+  size: 7051
+  hash: md5
+  path: cpi_monthly.csv
