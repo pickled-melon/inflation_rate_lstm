@@ -3,3 +3,7 @@
 
 # Docs
 docs/papers/*.pdf
+
+# Binary file
+data/processed/*.npy
+data/processed/*.joblib
