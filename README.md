@@ -37,3 +37,9 @@ dvc pull
 
 nbstripout --install
 ```
+
+## Экспорт зависимостей 
+
+```bash
+conda env export --from-history > environment.yml
+```
