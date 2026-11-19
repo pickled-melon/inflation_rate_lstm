@@ -1,0 +1,5 @@
+outs:
+- md5: 21a6b83601f50f7229227a836ac4c65a
+  size: 8065
+  hash: md5
+  path: cpi_monthly_sep_2026.csv
